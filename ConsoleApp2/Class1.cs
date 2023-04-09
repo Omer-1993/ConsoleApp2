@@ -10,5 +10,6 @@ namespace ConsoleApp2
     {
         int a = 10;
         int b = 20;
+        int c = 10;
     }
 }
