@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Buck Dharma");
+            Console.WriteLine("Ömer Çalışkan");
         }
     }
 }
